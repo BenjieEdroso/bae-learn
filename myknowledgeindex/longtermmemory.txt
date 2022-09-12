@@ -1,0 +1,5 @@
+Recursion is pattern where functions call themselves;
+Recursion is a good technique when searching through data structures eg. Object
+Spread operator is taking the values of a data structure and speading it in another data structure eg. const [...values] = oldArrayOfValues;
+Composition is combining up all tiny functions together.
+Higher order functions are functions that can accept functions as argument and can return functions or do both;
